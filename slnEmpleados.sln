@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionWindows", "Pres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaEmpleado", "LibreriaEmpleado\LibreriaEmpleado.csproj", "{79FFA7F4-F427-434F-9FA8-E340FFBDD866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEmpleados", "WindowsEmpleados\WindowsEmpleados.csproj", "{FDCAEFD0-6DAD-41CF-B3DF-D42579E05265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79FFA7F4-F427-434F-9FA8-E340FFBDD866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79FFA7F4-F427-434F-9FA8-E340FFBDD866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79FFA7F4-F427-434F-9FA8-E340FFBDD866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCAEFD0-6DAD-41CF-B3DF-D42579E05265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCAEFD0-6DAD-41CF-B3DF-D42579E05265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCAEFD0-6DAD-41CF-B3DF-D42579E05265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCAEFD0-6DAD-41CF-B3DF-D42579E05265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

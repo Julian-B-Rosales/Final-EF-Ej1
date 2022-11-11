@@ -84,6 +84,10 @@
       <Project>{79ffa7f4-f427-434f-9fa8-e340ffbdd866}</Project>
       <Name>LibreriaEmpleado</Name>
     </ProjectReference>
+    <ProjectReference Include="..\WindowsEmpleados\WindowsEmpleados.csproj">
+      <Project>{fdcaefd0-6dad-41cf-b3df-d42579e05265}</Project>
+      <Name>WindowsEmpleados</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
